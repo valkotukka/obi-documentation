@@ -54,8 +54,11 @@
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-4" value="Ledger" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
           <mxGeometry x="620" y="570" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-5" target="1oHQWLkUvS5H4WYnGpmm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-5" value="Payment Holiday" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="100" height="50" as="geometry" />
+          <mxGeometry x="340" y="140" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-6" target="1oHQWLkUvS5H4WYnGpmm-29">
           <mxGeometry relative="1" as="geometry" />
@@ -125,6 +128,12 @@
         </mxCell>
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-29" target="1oHQWLkUvS5H4WYnGpmm-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-38" target="1oHQWLkUvS5H4WYnGpmm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-38" value="BNPL/RC Account" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
