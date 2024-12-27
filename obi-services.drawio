@@ -97,7 +97,7 @@
           <mxGeometry x="1021" y="441" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-11" value="User" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
-          <mxGeometry x="420" y="630" width="100" height="50" as="geometry" />
+          <mxGeometry x="70" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-12" value="MFA" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
           <mxGeometry x="780" y="320" width="100" height="50" as="geometry" />
@@ -137,6 +137,27 @@
         </mxCell>
         <mxCell id="1oHQWLkUvS5H4WYnGpmm-38" value="BNPL/RC Account" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;fillColor=#C49D00;" vertex="1" parent="1">
           <mxGeometry x="310" y="266" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-42" target="C_nmWoKS890w6f45vqdA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-42" value="Payment" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-43" target="C_nmWoKS890w6f45vqdA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-43" value="Disbursement" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="230" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-44" value="SEPA" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontFamily=Anonymous Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAnonymous%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.63;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-43" target="1oHQWLkUvS5H4WYnGpmm-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oHQWLkUvS5H4WYnGpmm-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.62;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1oHQWLkUvS5H4WYnGpmm-42" target="1oHQWLkUvS5H4WYnGpmm-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
